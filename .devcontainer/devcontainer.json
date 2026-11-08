@@ -1,0 +1,4 @@
+
+{
+  "postStartCommand": "bash /workspaces/MC-BLABANKO-1/scripts/start_server.sh"
+}
